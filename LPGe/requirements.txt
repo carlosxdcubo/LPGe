@@ -1,0 +1,6 @@
+absl-py==0.15.0
+opencv-python==4.5.3.56
+Pillow==8.4.0
+PySimpleGUI==4.53.0
+tensorflow==2.7.0
+
